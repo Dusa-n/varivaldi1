@@ -1,0 +1,121 @@
+
+h1{
+    text-align: center;
+    position: absolute;
+    top: 3cm;
+    left: 1cm;
+    font-size: 80px;
+    font-style: italic;
+    border-style: none;
+    background-color: rgb(247, 239, 209);
+}
+img{
+    position: absolute;
+    top: 10cm;
+    left: 25cm;
+    border-style: inset;
+    border-radius: 10px;
+}
+video{
+    position: absolute;
+    top: 10cm;
+    left: 2cm;
+    border-radius: 10px;
+    border-style: inset;
+}
+.img-druga{
+    position: absolute;
+    top: 10cm;
+    left: 13.8cm;
+}
+.img-treca{
+    position: absolute;
+    top: -1cm;
+    left: 16cm;
+}
+.img-cet{
+    position: absolute;
+    top: 14cm;
+    left: 1cm;
+    border-style: double;
+}
+p{
+    position: absolute;
+    top: 0.5cm;
+    left: 1cm;
+    font-size: 19px;
+}
+.p-dva{
+    position: absolute;
+    left: 11cm;
+    top: 0.5cm;
+    font-size: 1cm;
+}
+.p-tri{
+    position: absolute;
+    top: 3.3cm;
+    left: 10.8cm;
+    font-size: 1.5cm;
+}
+li{
+    position: absolute;
+    left: 2cm;
+    top: 50px;
+}
+.li-re2{
+    position: absolute;
+    left: 2cm;
+    top: 90px;
+}
+.li-re3{
+    position: absolute;
+    left: 2cm;
+    top: 130px;
+}
+.li-re4{
+    position: absolute;
+    left: 2cm;
+    top: 170px;
+}
+.li-re5{
+    position: absolute;
+    left: 2cm;
+    top: 210px;
+}
+.li-re6{
+    position: absolute;
+    left: 2cm;
+    top: 250px;
+}
+ul{
+    font-size: 25px;
+    position: absolute;
+    top: 25cm;
+}
+.p-jedan{
+    position: absolute;
+    top: 6.5cm;
+    left: 1cm;
+    font-size: 1cm;
+    color: rgb(0, 0, 0);
+}
+.img-pet{
+    position: absolute;
+    top: 53cm;
+    left: 5cm;
+}
+.img-sest{
+    position: absolute;
+    top: 53cm;
+    left: 21cm;
+}
+.img-jedan{
+    position: absolute;
+    top: 1cm;
+    left: 13cm;
+    border-radius: 0cm;
+    border-style: none;
+}
+
+
+
